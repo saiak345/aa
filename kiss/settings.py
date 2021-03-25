@@ -26,7 +26,7 @@ SECRET_KEY = '3enaj5#rpsw(pj#0)=8l^%qwn)98)8mry2%--fz=rvas*_$_(q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cfdk.herokuapp.com']
 
 
 # Application definition
